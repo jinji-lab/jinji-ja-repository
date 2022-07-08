@@ -25,7 +25,7 @@ public class anvil {
                 }else
                     System.out.print("L");
             }
-            slots[flag]++;  //确认一个槽的小珠数
+            slots[flag]++;  //增加一个槽的小珠数
             System.out.println();
         }
         System.out.println(Arrays.toString(slots));
